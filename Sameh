@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Sameh El-Bendary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #007BFF;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Sameh El-Bendary</h1>
+    <p class="contact-info">
+        IT Consultant | Strategic Leadership | Operations Management | Business Development <br>
+        <a href="https://www.linkedin.com/in/sameh-el-bendary-099a38/">LinkedIn</a> <br>
+        (+2) 012 2218 3951 | selbendary@hotmail.com <br>
+        Cairo, Egypt
+    </p>
+
+    <h2>SUMMARY</h2>
+    <p>
+        Over the past 30 years, I’ve dedicated myself to strategic leadership and consultation, focusing on Strategic Management, Business Development, and International Sales. I find great fulfillment in helping organizations generate over USD 100 million in sales and project revenue by aligning technology with their goals. I believe true success comes from understanding people and creating environments where innovation can grow; my aim is to inspire organizations to leverage technology in ways that enhance human potential and create lasting value for everyone involved.
+    </p>
+
+    <h2>KEY ACHIEVEMENTS</h2>
+    <ul>
+        <li>Marketing Expansion in the Middle East: Led the launch of marketing initiatives that resulted in a 50% increase in market share. Developed strategic partnerships and tailored campaigns to penetrate regional markets effectively.</li>
+        <li>Revenue Growth Enhancement: Implemented a pricing and distribution strategy that generated an additional 2M EGP in monthly revenue, optimizing pricing models and distribution channels.</li>
+        <li>Project Management Excellence: Successfully managed the implementation of the SAP S/4HANA ERP system, improving operational efficiency and ensuring project delivery within budget constraints.</li>
+    </ul>
+
+    <h2>PROFESSIONAL EXPERIENCE</h2>
+
+    <div class="experience">
+        <h3>Freelancer</h3>
+        <p class="experience-item">
+            <strong>Information Technology Consultant</strong> <br>
+            03/2024 – Present | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Work closely with clients to assess and analyze the impact of proposed changes, offering insights and recommendations for smooth transitions.</li>
+            <li>Engage directly with stakeholders to gather feedback and ensure needs are met.</li>
+            <li>Develop clear, actionable change management plans and provide strategic advice on optimizing equipment performance.</li>
+            <li>Provide strategic recommendations for cost-effective equipment performance improvements and support change initiatives with detailed analysis.</li>
+        </ul>
+
+        <h3>A-part Auto for Trading & Industry</h3>
+        <p class="experience-item">
+            <strong>COO / Vice Chairman</strong> <br>
+            01/2021 – 02/2024 | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Led organizational change initiatives by creating and implementing change management plans that included communication strategies and training programs.</li>
+            <li>Engaged with stakeholders throughout the change process, ensuring their concerns were addressed.</li>
+            <li>Initiated and executed strategic sales overhauls, leading to a 30% increase in revenue growth and expanded market presence.</li>
+        </ul>
+
+        <h3>Update For Consultation</h3>
+        <p class="experience-item">
+            <strong>IT Consultant and Digital Transformation</strong> <br>
+            01/2017 – 12/2020 | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Provided strategic advice on technology adoption and change management, focusing on aligning solutions with business goals.</li>
+            <li>Created and executed communication strategies and training programs to support successful technology integration.</li>
+        </ul>
+
+        <h3>Update for Integrated Business</h3>
+        <p class="experience-item">
+            <strong>Managing Director / Director of Operations</strong> <br>
+            01/1999 – 12/2016 | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Directed strategic initiatives and daily operations, focusing on effective change management and organizational growth.</li>
+            <li>Implemented strategies that expanded the company’s portfolio and market presence.</li>
+        </ul>
+
+        <h3>IHS Group ME</h3>
+        <p class="experience-item">
+            <strong>Deputy General Manager</strong> <br>
+            01/1995 – 12/1998 | Dubai, UAE
+        </p>
+        <ul>
+            <li>Developed long-term business strategies and supported change management processes to optimize performance and growth.</li>
+        </ul>
+
+        <h3>American Qatari International Trade Co. (AQITC)</h3>
+        <p class="experience-item">
+            <strong>Business Development Manager</strong> <br>
+            01/1991 – 12/1994 | Doha, Qatar
+        </p>
+        <ul>
+            <li>Formulated and implemented comprehensive strategies for market expansion, driving sustainable growth and cultivating strong client relationships.</li>
+        </ul>
+
+        <h3>International Trade & Consultation (ITC)</h3>
+        <p class="experience-item">
+            <strong>Senior Service and Maintenance Engineer</strong> <br>
+            07/1986 – 12/1990 | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Maintained strong client communication by providing technical support and ensuring alignment with project requirements.</li>
+        </ul>
+
+        <h3>Al Hoda Misr Co.</h3>
+        <p class="experience-item">
+            <strong>Installation Engineer</strong> <br>
+            07/1984 – 06/1985 | Cairo, Egypt
+        </p>
+        <ul>
+            <li>Managed the installation of industrial equipment, ensuring successful project execution and high levels of client satisfaction.</li>
+        </ul>
+    </div>
+
+    <h2>AREAS OF EXPERTISE</h2>
+    <ul>
+        <li>Change Management</li>
+        <li>Stakeholder Engagement</li>
+        <li>Sales Strategy</li>
+    </ul>
+
+    <h2>EDUCATION</h2>
+    <p>
+        <strong>BSc. Mechanical Engineering</strong> | Zagazig University | Cairo, Egypt | 1983 <br>
+        <li>Graduated with honors, demonstrating early on my passion for innovation and problem-solving. <br>
+        <li>Capstone Project: Developed an air conditioner powered by solar energy, showcasing my interest in sustainable technology solutions. <br>
+</p>
+I am a firm believer in lifelong learning. I regularly participate in executive education programs, focusing on emerging technologies, strategic management, and global business trends. This commitment ensures that I bring the most current and relevant insights to every project and team I work with.
+    </p>
+
+    <h2>LANGUAGES</h2>
+    <ul>
+        <li>Arabic: Native speaker with a deep understanding of local/Arab business cultures.</li>
+        <li>English: Fluent (C2 level), adept at clear communication and negotiation in international business contexts.</li>
+    </ul>
+
+    <h2>CORE COMPETENCIES</h2>
+    <p>
+        I bring a diverse range of skills in strategic leadership and business planning, with a passion for integrating technology to enhance efficiency and drive innovation. I thrive in project management and business transformation, where I develop effective sales strategies that boost lead generation and optimize the sales pipeline. Using forecasting and analytics, I make informed decisions that keep us ahead of the competition. My strong negotiation skills and ability to foster cross-functional collaboration help me achieve shared goals with teams. I also enjoy connecting with clients through targeted market research and international marketing efforts; while ensuring we have the right talent on board through thoughtful human resources practices and careful management of RFPs/RFIs/RFQs.
+    </p>
+
+</body>
+</html>
